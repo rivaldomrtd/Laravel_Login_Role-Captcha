@@ -9,4 +9,8 @@ Penggunaan:
 2. php artisan key:generate
 3. php artisan migrate
 4. php artisan db:seed
-5. php artisan serve
+5. npm install 
+6. npm run dev
+7. php artisan serve
+```
+Untuk username dan password login bisa dilihat di `/database/seeders/UserSeeder.php`;
